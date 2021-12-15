@@ -33,3 +33,7 @@
 docs/*
 deploy
 optimized
+
+# Variant
+.vscode/
+build/
